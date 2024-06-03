@@ -26,7 +26,7 @@ namespace Ray.BiliBiliTool.Config.Options
         /// <summary>
         /// 每日设定的投币数 [0,5]
         /// </summary>
-        public int NumberOfCoins { get; set; } = 5;
+        public int NumberOfCoins { get; set; } = 0;
 
         /// <summary>
         /// 要保留的硬币数量 [0,int_max]
